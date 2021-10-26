@@ -1,6 +1,6 @@
-VCS
-DVCS
-Differences between VCS DVCS
+#VCS
+###DVCS
+###Differences between VCS DVCS
 Git
 GITHUB
 Repos
