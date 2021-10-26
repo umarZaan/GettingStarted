@@ -1,4 +1,4 @@
-# VCS
+VCS
 DVCS
 Differences between VCS DVCS
 Git
